@@ -32,6 +32,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sana-mansoori&show_icons=true&locale=en&layout=compact" alt="sana-mansoori" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sana-mansoori&show_icons=true&locale=en" alt="sana-mansoori" /></p>
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sana-mansoori&" alt="sana-mansoori" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sana-mansoori&" alt="sana-mansoori" /></p>
 
 
