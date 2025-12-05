@@ -5,9 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sana-mansoori-1319&label=Profile%20views&color=0e75b6&style=flat" alt="sana-mansoori" /> </p>
 
-- 🌱 I’m currently learning **MERN, Data Science, Machine Learning, Artificial Intelligence**
-- 📫 How to reach me **amansoori179@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sana-mansoori-067783232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sana mansoori" height="30" width="40" /></a>
